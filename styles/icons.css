@@ -11,4 +11,5 @@
   white-space: nowrap;
   direction: ltr;
   text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
 }
